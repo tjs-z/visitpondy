@@ -93,13 +93,9 @@ This is a curated list of contributions by individual contributors, and all righ
 4. Hoshi wellness Spa and cafe (For good massage) https://maps.app.goo.gl/xDTKzWSSLHdVadSQ8
 5. Matrimandir Auroville viewing point - (to visit inside the chamber booking required) https://maps.app.goo.gl/AeWmg1KdpFvJ7nDz8
 6. Temple Adventures - Scuba Diving Experience Centre https://maps.app.goo.gl/twS33zXrgouqMyz76
-7. Surfing:
-   - Ecole de surf pondy -  https://maps.app.goo.gl/tGNEpctoVEx27g14A
-   - Sun surf Club - https://maps.app.goo.gl/ns8gjaHw3HLdWA5U7
-
-8. Manakula Vinayagar Temple - https://maps.app.goo.gl/4V6FPnPCgoZ1vhAw9
-9. The sacred heart basilica  church -https://maps.app.goo.gl/ucNg7JVjMpHxbLtV8
-10. Immaculate conception cathedral church- https://maps.app.goo.gl/GCL2wXQ6m32tYC7y6
+7. Manakula Vinayagar Temple - https://maps.app.goo.gl/4V6FPnPCgoZ1vhAw9
+8. The sacred heart basilica  church -https://maps.app.goo.gl/ucNg7JVjMpHxbLtV8
+9. Immaculate conception cathedral church- https://maps.app.goo.gl/GCL2wXQ6m32tYC7y6
 
 ### Pubs and Restobar:
 
