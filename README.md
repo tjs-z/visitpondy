@@ -8,8 +8,16 @@ This is a curated list of contributions by individual contributors, and all righ
 
 ## Table of contents:
 - [Eateries/Restaurants](#eateries-and-Restaurants)
+    - [Breakfast](#breakfast)
+    - [Lunch](#lunch)
+    - [Coffee](#coffee)
+    - [Dinner](#dinner)
 - [Places to visit](#places-to-visit)
 - [Pubs and Restobar](#pubs-and-restobar)
+- [Beaches](#beaches)
+- [AirBnB](#airbnb)
+- [Scooty-Bike Rentals](#scooty-bike-rentals)
+- [Surf Schools](#surf-schools)
 
 ### Eateries and Restaurants:
 1. Coromandel cafe - Continental cuisine (For unique pondicherry aesthetic ambiance) https://maps.app.goo.gl/bD3G8A9T1oG9J2mB9
