@@ -29,6 +29,14 @@ This is a curated list of contributions by individual contributors, and all righ
 15. The Spot - Multi cuisine https://maps.app.goo.gl/ky4gKXQYRcKinEgMA
 16. Cafe de melon - french fusion https://maps.app.goo.gl/99uHC86k4H1ub2537
 
+#### Breakfast:
+
+#### Lunch:
+
+#### Coffee:
+
+#### Dinner:
+
 ### Places to visit:
 1. Beaches:
    - Rock beach (beautiful sunrise)
