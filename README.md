@@ -1,17 +1,17 @@
 # Pondicherry
 
 ## Contributions
-Feel free to submit a PR if you would like to contribute to this list to beautify/sort this quickly or add additional resources.
+Feel free to submit a PR if you would like to contribute to this list, beautify/sort it quickly, or add additional resources. The original list was contributed by Rithika from Team Zemuria Inc., and subsequent details were added from the personal curation of Yash Bhardwaj (https://twitter.com/ybhrdwj), Neil Shroff (https://twitter.com/neilshroff), Paarug Sethi (https://twitter.com/paarugsethi), Pratik Dholani (https://twitter.com/pratikdholani) and Abhishek (https://twitter.com/abhwshek).
 
 ### Disclaimer
-This is a curated list of contributions by individual contributors, and all rights to original pieces belong to their respective owners. If you're an owner or representative of any of the listed places who wants these resources removed from this list, please feel free to contact us.
+This is a curated list of contributions by individual contributors, and all rights to original pieces belong to their respective owners. If you're an owner or representative of any listed places who wants these resources removed from this list, please get in touch with us.
 
 ## Table of contents:
-- [Eateries](#eateries)
+- [Eateries/Restaurants](#eateries-and-Restaurants)
 - [Places to visit](#places-to-visit)
 - [Pubs and Restobar](#pubs-and-restobar)
 
-### Eateries:
+### Eateries and Restaurants:
 1. Coromandel cafe - Continental cuisine (For unique pondicherry aesthetic ambiance) https://maps.app.goo.gl/bD3G8A9T1oG9J2mB9
 2. Bread and chocolate - French Cuisine (open only for  breakfast and  brunch) https://maps.app.goo.gl/U2BvctPC1vFytzuX7
 3. Auroville bakery - French pastries and bread (visit before 9 AM IST to taste their luscious signature "pain au chocolat") https://maps.app.goo.gl/VQnnyDWBBvxPq6Co7
@@ -31,11 +31,46 @@ This is a curated list of contributions by individual contributors, and all righ
 
 #### Breakfast:
 
+1. Crepe in Touch - https://maps.app.goo.gl/Ts44og4sM2rSe5QA6
+2. Cafe 73 - https://maps.app.goo.gl/wCvXWECpCqUrsJx27
+3. Sustenance Farm and Cafe - https://maps.app.goo.gl/Q6oxyK84z8YVxuMd9
+4. Sri Sai Murugan Idly Kadai - https://maps.app.goo.gl/smsQMLGPk5hyHWNw5
+5. Sri Murugan Cafe - https://maps.app.goo.gl/MtwT2owmjsXytajPA
+6. Savor South - https://maps.app.goo.gl/22Vtm5xYBxV4KrfZ8
+7. Hope Cafe - https://maps.app.goo.gl/MrKkeGr8LZWejTTu5
+8. Le Boulevard - https://maps.app.goo.gl/hGJB5poqxQnj9vv56
+
 #### Lunch:
+
+1. The Sprout - https://maps.app.goo.gl/JbT2MW5x1Pr46kSD6
+2. Cafe Veloute - https://maps.app.goo.gl/9U2ZHZoadv716Ud36
+3. Chez Artizan - https://maps.app.goo.gl/2gM9Fu5EBWHxcXFY7
+4. Gastronomica Kitchen - https://maps.app.goo.gl/L7sFF472kQs83uW3A
+5. Chez Pushpa - https://maps.app.goo.gl/5ABjGydnWy3GYvr1A
+6. Naturellement Garden Cafe - https://maps.app.goo.gl/v9sf2B55J3SspYMh9
+7. Atherai Veg Restaurant - https://maps.app.goo.gl/VMbhZEcSFV7N6pSh9
+8. A. Athaullah Hotel - https://maps.app.goo.gl/ycBBL5EETduJxRwn9
+9. Viji Tiffen Centre - https://maps.app.goo.gl/F3YcZqHrLSGovhvC6
 
 #### Coffee:
 
+1. Marc's Cafe - https://maps.app.goo.gl/fJbdG7xkewaioKEq7
+2. KBS Kofi Barr - https://maps.app.goo.gl/bw6Ahxo2ECySLw9t6
+3. Aurelac Cafeteria - https://maps.app.goo.gl/aNZiBkcn7mMyBPVX9
+4. Pangaea Cafe - https://maps.app.goo.gl/mYxHLqkHu8A4JSmW8
+5. Coffee Break - https://maps.app.goo.gl/KpzTCMRGMLT8kUkY9
+6. La Terrace Cafe - https://maps.app.goo.gl/yVzMjK3QtL4D5D6cA
+7. Pondy Bucks - https://maps.app.goo.gl/W1HuDtpJoWaVqsSB9
+
 #### Dinner:
+
+1. Ende Nadu - https://maps.app.goo.gl/axNpxXHVdzjfbQJh9
+2. Maison Perumal Restaurant - https://maps.app.goo.gl/cUHzsgNpMSe8oFw19
+3. Canteen 18 (For the best burgers in town) - https://maps.app.goo.gl/JC3CTri5nrCjuRPo9
+4. WAWA's Restaurant (For the best steamed momo's in town) - https://maps.app.goo.gl/zCnzNK84szuEbXd17
+5. New Banana Cafe & Restaurant - https://maps.app.goo.gl/v9mtKK7MLCh3N7qs7
+6. Aneetas Kitchen - https://maps.app.goo.gl/gV4WSByCp3kVrjwz8
+7. The Grove - https://maps.app.goo.gl/5DrKQdFaYCfRM5TU7
 
 ### Places to visit:
 1. Beaches:
