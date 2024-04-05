@@ -1,10 +1,10 @@
 # Pondicherry
 
 ## Contributions
-If you would like to contribute to this list to beautify/sort this easily or add additional resources, feel free to submit a PR.
+Feel free to submit a PR if you would like to contribute to this list to beautify/sort this quickly or add additional resources.
 
 ### Disclaimer
-This is a curated list of contributions by individual contributors, and all rights to original pieces belong to their respective owners. If you're an owner/representative of this place who wants any of these resources removed from this list, please feel free to reach out.
+This is a curated list of contributions by individual contributors, and all rights to original pieces belong to their respective owners. If you're an owner or representative of any of the listed places who wants these resources removed from this list, please feel free to contact us.
 
 ## Table of contents:
 - [Eateries](#eateries)
@@ -64,4 +64,41 @@ This is a curated list of contributions by individual contributors, and all righ
 10. Hook lounge- resto bar and restaurant https://maps.app.goo.gl/VmQNHz5T4asS7KKVA
 11. Metamorphosis Brewing Company - https://maps.app.goo.gl/e44ozjmGU2Sh3SJaA 
 
+### Beaches:
+
+1. Auroville Beach - https://www.google.com/maps?cid=711085015990466225
+2. Rock Beach - https://www.google.com/maps?cid=16300760540107759762
+3. Promenade Beach - https://www.google.com/maps?cid=18133717170555515889
+4. Paradise Beach - https://maps.app.goo.gl/J9TVhBD5HC1WCdpi8
+5. Reppo Beach - https://maps.app.goo.gl/aodBE2k7tmuGPLG57
+6. Serenity Beach - https://maps.app.goo.gl/XKx9fg6sM1Fjxrzn8
+7. Veerampattinam Beach - https://maps.app.goo.gl/UqJrYV5Zqgo7P3hb6
+8. White Sand Beach - https://maps.app.goo.gl/Hcusbx5rZzsryCR88
+9. Eden Beach - https://maps.app.goo.gl/CgjmfGmMzaMDezcbA
+
+### AirBnB:
+
+1. Rayon du Soleil - https://www.airbnb.co.in/rooms/26480932?guests=1&adults=1&s=67&unique_share_id=c9247771-b8be-4d89-a157-c3582c55f9da
+2. Shubham Boutique Homestay - https://www.airbnb.co.in/rooms/46813413?guests=1&adults=1&s=67&unique_share_id=2ab050b3-b3a2-4edd-94a2-8b82cfc06bbb
+3. The Khaya Nest - https://www.airbnb.co.in/rooms/820955742570460255?guests=1&adults=1&s=67&unique_share_id=97a9dbc5-69df-4c3c-a60f-5577f1b00c83
+4. Casa Joza - https://www.airbnb.co.in/rooms/781653622726195152?guests=1&adults=1&s=67&unique_share_id=07a9e6e2-03d2-4c35-9ac0-f344fd6fb842
+5. Santorini Serenity - https://www.airbnb.co.in/rooms/1101856729189345103?guests=1&adults=1&s=67&unique_share_id=4e9fccba-41a4-47da-a76b-90e174b42066
+6. Studio De La Sovereign - https://www.airbnb.co.in/rooms/1041835560304450124?guests=1&adults=1&s=67&unique_share_id=c9d539de-720e-4b84-bc06-e1efaa41135a
+7. The Conch - https://www.airbnb.co.in/rooms/833622820533026667?guests=1&adults=1&s=67&unique_share_id=b2d9661b-4639-4581-b215-f7d5bf7ce6e9
+8. Radha Nivas - https://www.airbnb.co.in/rooms/914068245244028303?guests=1&adults=1&s=67&unique_share_id=7a7213a4-eb88-41a0-a026-d8a094576592
+9. Kaivalayam - https://www.airbnb.co.in/rooms/36411695?guests=1&adults=1&s=67&unique_share_id=e4494d33-a351-478d-9932-a351e5f714ef
+10. La Sovereign - https://www.airbnb.co.in/rooms/784551309642281267?guests=1&adults=1&s=67&unique_share_id=565c8a8e-1192-448e-a10d-30cff4589f87
+
+### Scooty-Bike Rentals:
+
+1. Happy Ride - https://maps.app.goo.gl/W76K1t6VbWofXWW57
+2. Star Two Wheeler - https://maps.app.goo.gl/AgxRsQPfje8fHVko8
+3. Bala Rental - https://maps.app.goo.gl/EDAQeHm1u9dhrEqZ6
+4. V Aambal - https://maps.app.goo.gl/LAv77AZUnjAzBBbk9
+5. Vijay Arya Rentals - https://maps.app.goo.gl/n5mwTHCyuKj58ou49
+6. Sai Two Wheelers - https://maps.app.goo.gl/9jmLuYCU8b8vMn8U7
+7. Joyrides Bikes - https://maps.app.goo.gl/BfbZQzE2rQzkvyGi8
+8. M.M.K Bike Rent - https://maps.app.goo.gl/N5LcG1iGHei6Djep8
+9. SSS Bike Rental - https://maps.app.goo.gl/i8yANbH6DzAQ47tR9
+10. Royal Brothers - https://maps.app.goo.gl/rxaz8VGqc9e2TbWu7
 
