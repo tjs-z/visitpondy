@@ -102,3 +102,12 @@ This is a curated list of contributions by individual contributors, and all righ
 9. SSS Bike Rental - https://maps.app.goo.gl/i8yANbH6DzAQ47tR9
 10. Royal Brothers - https://maps.app.goo.gl/rxaz8VGqc9e2TbWu7
 
+### Surf Schools:
+
+1. Guru Surf School - https://maps.app.goo.gl/5dJWQ3sPbc3s8jTD7
+2. Kallialay Surf School - https://maps.app.goo.gl/ouLKauhXq3e14HBGA
+3. Ecole De Surf - https://maps.app.goo.gl/ds4fnTGUVvLAf5dS8
+4. Sun Surf Club - https://maps.app.goo.gl/tj4QxdSgXvVBF3837
+5. Mother Ocean Surf School - https://maps.app.goo.gl/6QoSv6gyCjHAcNM26
+6. Pondicherry Surf School - https://maps.app.goo.gl/5nbZ6XA4WZgrjLUj8
+7. Serenity Surf Experience - https://maps.app.goo.gl/gf3vUeEgBFMYifcU7
