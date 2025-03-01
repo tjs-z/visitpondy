@@ -36,6 +36,7 @@ This is a curated list of contributions by individual contributors, and all righ
 14. Sakura Sushi Auroville - Japanese cuisine https://maps.app.goo.gl/CXBy4LjzC3gvNwRi9
 15. The Spot - Multi cuisine https://maps.app.goo.gl/ky4gKXQYRcKinEgMA
 16. Cafe de melon - french fusion https://maps.app.goo.gl/99uHC86k4H1ub2537
+17. Copper Kitchen - South Indian (madurai uppu kari, chettinadu mutton shoulder) https://g.co/kgs/VvjVzX8
 
 #### Breakfast:
 
